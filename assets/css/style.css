@@ -1,0 +1,7 @@
+main {
+    width: 70%;
+}
+section {
+    display: flex;
+    flex-wrap: wrap;
+}
