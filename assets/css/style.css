@@ -1,7 +1,13 @@
+ body {
+    display: flex;
+        justify-content: center;
+    }
+
 main {
     width: 70%;
 }
 section {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
